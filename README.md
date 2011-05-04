@@ -7,7 +7,7 @@ Setup:
 ------
 
 1. Enable `lxJavascriptPlugin` in your ProjectConfiguration
-2. Edit `factories.yml` to include the helper `lxJavascript`
+2. Edit `settings.yml` to include the helper `lxJavascript`
 
 Usage:
 ------
