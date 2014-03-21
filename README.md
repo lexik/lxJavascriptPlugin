@@ -3,6 +3,8 @@ lxJavascriptPlugin
 
 lxJavascriptPlugin allows you to insert all your javascripts in a single place of your document, from partials, widgets, basically anywhere in your app.
 
+![Project Status](http://stillmaintained.com/lexik/lxJavascriptPlugin.png)
+
 Setup:
 ------
 
